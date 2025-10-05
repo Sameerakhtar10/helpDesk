@@ -168,7 +168,7 @@ const Index = () => {
 
       {/* Footer */}
       <footer className="border-t border-white/10 py-6 text-center text-gray-400 text-sm">
-        © 2025 HelpDesk with ❤️ by <span className="text-indigo-400 font-medium">MD ISRAR</span> · All Rights Reserved
+        © 2025 HelpDesk with ❤️ by <span className="text-indigo-400 font-medium">Sameer Akhtar</span> · All Rights Reserved
       </footer>
 
     </div>
