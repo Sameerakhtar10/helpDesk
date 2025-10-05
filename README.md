@@ -2,7 +2,7 @@
 
 ## Project info
 
-**Repository URL**: https://github.com/mdisrarA32/HelpDesk
+**Repository URL**: https://github.com/Sameerakhtar10/helpDesk
 
 ## How can I edit this code?
 
